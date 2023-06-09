@@ -50,7 +50,7 @@ h1, h2, h3, h4, p, a {
 }
 
 .gift-img{
-    background-image: url("images/gift\ cover.jpg");
+    background-image: url("gift\ cover.jpg");
     background-size: cover;
     width: 500px;
     height: 500px;
@@ -61,23 +61,23 @@ h1, h2, h3, h4, p, a {
 }
 
 #happy-img:hover{
-    background-image: url("images/happy.gif");
+    background-image: url("happy.gif");
     background-size: cover;
 }
 
 
 #reaction-img:hover{
-    background-image: url("images/reaction.gif");
+    background-image: url("reaction.gif");
     background-size: cover;
 }
 
 #word-img:hover{
-    background-image: url("images//old.gif");
+    background-image: url("old.gif");
     background-size: cover;
 }
 
 #badass-img:hover{
-    background-image: url("images/badass.gif");
+    background-image: url("badass.gif");
     background-size: cover;
 }
 
